@@ -7,7 +7,7 @@ export default function Footer() {
       <Link to="/" className="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
         
       </Link>
-      <span className="text-muted">© 2023 Folapo, Inc</span>
+      <span className="text-muted">© 2023 Food Bytes, Inc</span>
       
     </div>
     <span className='text-muted'>All rights reserved</span>
